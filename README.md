@@ -121,9 +121,6 @@ This project provides an end-to-end data analysis solution for extracting busine
 - Incorporate additional data sources for deeper insights.
 - Automate data pipelines for real-time analysis.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
